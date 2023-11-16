@@ -2,9 +2,9 @@
 
 
 * BSU, FAMCS :mortar_board:
-* :snowflake: :snowflake: :snowflake:
+* :house: Working from home
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlobusOffZeWorld&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlobusOffZeWorld&show_icons=true&theme=tokyonight&border_radius=25)
 ### Core Stack:
 [<img align="left" alt="nextjs" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />][nextjs]
 [<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][reactdocumentation]
