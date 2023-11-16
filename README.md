@@ -1,7 +1,6 @@
 ### Polyvyany Gleb :computer:
 
 
-* Software engineer :technologist:
 * BSU, FAMCS :mortar_board:
 * :snowflake: :snowflake: :snowflake:
 
