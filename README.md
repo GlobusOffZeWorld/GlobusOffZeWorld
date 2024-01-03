@@ -50,6 +50,7 @@
 [<img align="left" alt="eslint" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][eslint]
 [<img align="left" alt="babel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />][babel]
 [<img align="left" alt="prettier" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/prettier.svg" />][prettier]
+[<img align="left" alt="storybook" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />][storybook]
 
 
 <br />
@@ -60,6 +61,7 @@
 [<img align="left" alt="Webstorm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-plain.svg" />][webstorm]
 [<img align="left" alt="figma" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />][figma]
 [<img align="left" alt="terminal" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][terminal]
+[<img align="left" alt="linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />][linux]
 
 
 <br />
@@ -141,3 +143,5 @@
 [ionic]: https://ionicframework.com/
 [microsoftsqlserver]: https://www.microsoft.com/ru-ru/sql-server/sql-server-2019
 [postgresql]: https://www.postgresql.org/
+[storybook]: https://storybook.js.org/
+[linux]: https://manjaro.org/
