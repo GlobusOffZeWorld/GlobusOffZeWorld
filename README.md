@@ -32,6 +32,7 @@
 [<img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />][css3]
 [<img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />][sass]
 [<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][github]
+[<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />][gitlab]
 
 
 <br />
@@ -47,11 +48,12 @@
 
 ### Tools:
 [<img align="left" alt="webpack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />][webpack]
+[<img align="left" alt="webpack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />][vitejs]
 [<img align="left" alt="eslint" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][eslint]
 [<img align="left" alt="babel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />][babel]
 [<img align="left" alt="prettier" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/prettier.svg" />][prettier]
 [<img align="left" alt="storybook" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />][storybook]
-
+[<img align="left" alt="storybook" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />][playwright]
 
 <br />
 <br />
@@ -145,3 +147,6 @@
 [postgresql]: https://www.postgresql.org/
 [storybook]: https://storybook.js.org/
 [linux]: https://manjaro.org/
+[vitejs]: https://vitejs.dev/
+[gitlab]: https://about.gitlab.com/
+[playwright]: https://playwright.dev/
