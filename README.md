@@ -1,7 +1,7 @@
 ### Polyvyany Gleb :computer:
 
 
-* BSU, FAMCS :mortar_board:
+* Front-end Web Developer. BSU, FAMCS :mortar_board:
 * :house: Working from home
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlobusOffZeWorld&show_icons=true&theme=tokyonight&border_radius=25)
